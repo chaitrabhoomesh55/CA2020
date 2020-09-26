@@ -1,0 +1,14 @@
+PS C:\Users\ADMIN\chai\python_codes> python A2_file6.py
+1
+2
+3
+0
+error
+1
+error
+2
+0
+1
+2
+3
+4
