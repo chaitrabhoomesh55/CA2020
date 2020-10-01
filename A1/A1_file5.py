@@ -1,4 +1,4 @@
-a.
+# a.
 x= int(input(" enter a value between 1-10: "))
 y= int(input(" enter a value between 1-10: "))
 z=x+y
