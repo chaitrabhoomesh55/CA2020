@@ -1,0 +1,16 @@
+
+# 7. Define a function that can accept two strings as input and print the string with maximum length in console. 
+# If two strings have the same length, then the function should print all strings line by line.
+
+def compare_str(x, y):
+    if (len(x) > len(y)):
+        print(x)
+    elif (len(y) > len(x)):
+        print(y)
+    else:
+        print(x)
+        print(y)
+
+x = input("enter string1: ")
+y = input("enter string2: ")
+compare_str(x, y)
